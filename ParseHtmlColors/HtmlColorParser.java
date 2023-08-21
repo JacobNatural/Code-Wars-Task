@@ -1,3 +1,5 @@
+// TASK CODEWARS
+// https://www.codewars.com/kata/58b57ae2724e3c63df000006
 package pl.jakubmarjankiwski.codewars.ParseHtmlColors;
 
 import java.util.HashMap;
